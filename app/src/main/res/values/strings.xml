@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Dusigrosz</string>
+    <string name="suma">Suma</string>
+    <string name="imie">Imię</string>
+    <string name="nazwisko">Nazwisko</string>
+    <string name="dlug">Dług</string>
+    <string name="cofnij">Cofnij</string>
+    <string name="dodaj">Dodaj</string>
+    <string name="symuluj">Symuluj</string>
+    <string name="odsetki">Odsetki</string>
+    <string name="predko">Prędkość</string>
+    <string name="procent">Procent</string>
+    <string name="predkosc_splaty_dlugu">Prędkość spłaty długu</string>
+    <string name="procent_prowizji">Procent prowizji</string>
+</resources>
